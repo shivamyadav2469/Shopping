@@ -12,7 +12,7 @@ const Navbar = () => {
 
         <NavLink to="/">
           <div className="ml-5">
-          <img src="../logo.png" className="h-14"/>
+          <img src="https://images-platform.99static.com//4ycuXrwyFwnAszAH7gp1Tv-Di8k=/121x102:1374x1355/fit-in/500x500/99designs-contests-attachments/109/109130/attachment_109130494" className="h-14"/>
           </div>
         </NavLink>
 
